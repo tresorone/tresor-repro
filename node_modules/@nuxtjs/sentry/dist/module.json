@@ -1,0 +1,5 @@
+{
+  "name": "@nuxtjs/sentry",
+  "configKey": "sentry",
+  "version": "8.0.7"
+}
